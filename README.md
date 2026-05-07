@@ -1,7 +1,3 @@
-<p align="right">
-  <img src="https://api.boot.dev/v1/users/public/59482289-a320-4b44-b858-a018bce4167c/thumbnail" >
-</p>
-
 # Hi, I'm Aaron Dutton 👋
 
 I'm a GRC and Information Security professional with 10+ years of experience in 
