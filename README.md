@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Aaron Dutton 👋
 
-<!--
-**aarondutton-grc/aarondutton-grc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a GRC and Information Security professional with 10+ years of experience in 
+healthcare technology, specializing in compliance program management, risk 
+assessment, and audit leadership in HIPAA-regulated environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Core Competencies
+
+- **Audit & Compliance:** SOC 2 Type II (280+ controls, 100% effectiveness across 
+  three consecutive cycles), HIPAA, NIST CSF, NIS2
+- **Risk Management:** Third-party vendor risk (300+ vendors annually), risk 
+  register ownership, FAIR/PASTA threat modeling
+- **Frameworks:** NIST CSF 2.0, NIST 800-53, ISO 27001, PCI-DSS, SOC 2 TSCs
+- **Policy & Governance:** Policy lifecycle management, customer security 
+  questionnaires (SIG, CAIQ, custom formats)
+- **Domain Expertise:** Healthcare technology, organ transplant software (HIPAA, 
+  PHI governance)
+
+---
+
+## 🔬 This Portfolio
+
+This GitHub contains hands-on GRC and security tooling built in Python, 
+demonstrating practical application of security concepts:
+
+| Category | Tools |
+|---|---|
+| Threat Intelligence | CISA KEV, VirusTotal, NVD CVE, URLScan |
+| Vendor Risk | HaveIBeenPwned, AbuseIPDB, WHOIS |
+| Healthcare Regulatory | openFDA, NPPES NPI, WHO ICD-11 |
+
+---
+
+## 📜 Certifications
+
+- 🔄 CompTIA Security+ *(in progress)*
+- 🔄 ISC2 Certified in Cybersecurity (CC) *(in progress)*
+- 🎯 CISSP *(roadmap)*
+- 🎯 CRISC *(roadmap)*
+
+---
+
+## 💼 Experience Highlights
+
+- Led SOC 2 Type II audit program at CareDx (healthcare technology, organ 
+  transplant space) — 280+ controls, three consecutive cycles with 100% 
+  effectiveness
+- Managed third-party vendor risk program covering 300+ vendors annually
+- HIPAA compliance and PHI governance in a regulated healthcare SaaS environment
+- Customer-facing security questionnaire support (SIG, CAIQ, custom formats)
+
+---
+
+## 🌐 Links
+
+- 🌍 Portfolio: [aarondutton.tech](https://aarondutton.tech) *(coming soon)*
+- 💼 LinkedIn: [aarondutton.work](https://aarondutton.work)
+- 📧 aaron@aarondutton.me
