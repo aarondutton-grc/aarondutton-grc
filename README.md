@@ -25,7 +25,7 @@ demonstrating practical application of security concepts:
 | Vendor & Domain Risk | [HIBP Email Breach Checker](https://github.com/aarondutton-grc/hibp-email-checker) — single and bulk email breach lookup with full breach detail, [HIBP Domain Breach Scanner](https://github.com/aarondutton-grc/hibp-domain-scan) — owned-domain email exposure via paid HIBP account, [HIBP Vendor Breach Checker](https://github.com/aarondutton-grc/hibp-vendor-check) — third-party vendor breach metadata via free API (no email-level data), [HIBP Password Checker](https://github.com/aarondutton-grc/hibp-password-checker) — k-anonymity password breach lookup, Tkinter GUI, SHA-1 prefix/suffix model, AbuseIPDB, WHOIS, URLScan |
 | Vulnerability Assessment & Security Testing | [SSL Labs Scanner](https://github.com/aarondutton-grc/ssl-labs-scanner) — TLS/SSL assessment, certificate lifecycle, cipher suite analysis, PCI-DSS compliance checking |
 | Vulnerability Management | [NIST NVD CVE-to-CWE Mapper](https://github.com/aarondutton-grc/nist-nvd-cve-to-cwe-mapper) — CVE lookup, CWE enrichment, CISA KEV cross-reference, CVSS scoring, CSV/JSON export |
-| Healthcare & Regulatory | openFDA, NPPES NPI, WHO ICD-11 |
+| Healthcare & Regulatory | [NPPES NPI Lookup](https://github.com/aarondutton-grc/nppes-npi-lookup) — provider lookup by NPI or name, Luhn validation, wildcard search, Medicaid identifiers, authorized official info, openFDA, WHO ICD-11 |
 
 ---
 
