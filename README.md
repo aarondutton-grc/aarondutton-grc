@@ -22,7 +22,7 @@ demonstrating practical application of security concepts:
 |---|---|
 | Threat Intelligence | [IOC Threat Feed Aggregator](https://github.com/aarondutton-grc/ioc-threat-feed-aggregator) (OTX, URLhaus, Feodo Tracker), [ThreatFox Recent IOCs](https://github.com/aarondutton-grc/threat-fox-recent-iocs), CISA KEV, VirusTotal |
 | Asset & Infrastructure Recon | [Shodan Host Lookup](https://github.com/aarondutton-grc/shodan-host-lookup) — passive external recon, CVE exposure, SSL/TLS expiry (NIST CSF ID.AM / ID.RA) |
-| Vendor & Domain Risk | [HIBP Domain Breach Scanner](https://github.com/aarondutton-grc/hibp-domain-scan), AbuseIPDB, WHOIS, URLScan |
+| Vendor & Domain Risk | [HIBP Domain Breach Scanner](https://github.com/aarondutton-grc/hibp-domain-scan) — owned-domain email exposure via paid HIBP account, [HIBP Vendor Breach Checker](https://github.com/aarondutton-grc/hibp-vendor-check) — third-party vendor breach metadata via free API (no email-level data), AbuseIPDB, WHOIS, URLScan |
 | Vulnerability Assessment & Security Testing | [SSL Labs Scanner](https://github.com/aarondutton-grc/ssl-labs-scanner) — TLS/SSL assessment, certificate lifecycle, cipher suite analysis, PCI-DSS compliance checking |
 | Vulnerability Management | [NIST NVD CVE-to-CWE Mapper](https://github.com/aarondutton-grc/nist-nvd-cve-to-cwe-mapper) — CVE lookup, CWE enrichment, CISA KEV cross-reference, CVSS scoring, CSV/JSON export |
 | Healthcare & Regulatory | openFDA, NPPES NPI, WHO ICD-11 |
