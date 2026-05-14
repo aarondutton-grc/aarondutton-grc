@@ -47,6 +47,6 @@ demonstrating practical application of security concepts:
 ---
 
 ## 🌐 Links
-- 🌍 Portfolio: [aarondutton.tech](https://aarondutton.tech) *(coming soon)*
+- 🌍 Portfolio: [aarondutton.tech](https://aarondutton.tech)
 - 💼 LinkedIn: [aarondutton.work](https://aarondutton.work)
 - 📧 aaron@aarondutton.me
